@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\764712\Downloads\project-master (3)\project-master\On_Road_Assistance"/>
+		<item value="D:\springPrograms\On_Road_Assistance"/>
+		<item value="C:\Users\764712\Downloads\project-master (2)\project-master\On_Road_Assistance"/>
+		<item value="C:\Users\764712\Downloads\project-master (1)\project-master\On_Road_Assistance"/>
+		<item value="C:\Users\764712\Downloads\project-master\project-master\On_Road_Assistance"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>

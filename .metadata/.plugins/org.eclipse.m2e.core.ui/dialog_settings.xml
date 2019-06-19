@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="OnRoadAssistance"/>
+			<item value="onroad"/>
+			<item value="project"/>
+			<item value="SpringHibernate"/>
+			<item value="Log"/>
+			<item value="ThirdMapping"/>
+			<item value="SecondMapping"/>
+			<item value="Mapping"/>
+			<item value="EleventhHibernate"/>
+			<item value="TenthHibernate"/>
+			<item value="SixthHibernate"/>
+			<item value="FifthHibernate"/>
+			<item value="FourthHibernate"/>
+			<item value="ThirdHibernate"/>
+			<item value="SecondHibernate"/>
+		</list>
+		<list key="name">
+			<item value="new"/>
+			<item value="first"/>
+			<item value="four"/>
+			<item value="second"/>
+		</list>
+		<list key="artifactId">
+			<item value="OnRoadAssistance"/>
+			<item value="onroad"/>
+			<item value="project"/>
+			<item value="SpringHibernate"/>
+			<item value="Log"/>
+			<item value="ThirdMapping"/>
+			<item value="SecondMapping"/>
+			<item value="Mapping"/>
+			<item value="EleventhHibernate"/>
+			<item value="TenthHibernate"/>
+			<item value="SixthHibernate"/>
+			<item value="FifthHibernate"/>
+			<item value="FourthHibernate"/>
+			<item value="ThirdHibernate"/>
+			<item value="SecondHibernate"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\springPrograms\Mvc\src\main\webapp\WEB-INF\views\custSave.jsp"/>
+			<item value="D:\springPrograms\Hibernate\src\main\java\com\pack\model\Customer.java"/>
+			<item value="D:\springPrograms\SecondMapping\src\main\java\com\pack\Main.java"/>
+			<item value="D:\springPrograms\Mapping\src\main\java\com\pack\Address.java"/>
+			<item value="D:\springPrograms\EleventhHibernate\src\main\java\com\pack\Main.java"/>
+			<item value="D:\springPrograms\TenthHibernate\src\main\java\com\pack\Main.java"/>
+			<item value="D:\springPrograms\SixthHibernate"/>
+			<item value="D:\springPrograms\ThirdHibernate\src\main\java\com\pack\Main.java"/>
+			<item value="D:\springPrograms\Hibernate\pom.xml"/>
+			<item value="D:\springPrograms\Mvc\src\main\resources\message_en.properties"/>
+			<item value="D:\springPrograms\Ten\src\main\java\com\pack\controller\UserController.java"/>
+			<item value="D:\springPrograms\Eight\src\main\java\com\pack\Main.java"/>
+			<item value="D:\springPrograms\seven\src\main\java\com\pack\Main.java"/>
+			<item value="D:\springPrograms\Six\src\main\java\com\pack\Main.java"/>
+			<item value="D:\springPrograms\Five\src\main\java\com\pack\Main.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
